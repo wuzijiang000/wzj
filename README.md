@@ -1,2 +1,3 @@
 # wzj
-mypython
+#mypython
+print('this a test file')
